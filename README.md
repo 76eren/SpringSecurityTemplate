@@ -1,0 +1,1 @@
+# A template for spring security using authentication and authorization with JWT tokens
